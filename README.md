@@ -1,0 +1,2 @@
+# ZigBOT
+Already upgraded to DIGI's Zigbee3 model, now with Zigbee and BLE protocols, the ZigBOT Zigbee3 Module offers a fully interoperable ecosystem, covering all vertical markets, including building automation, smart energy, digital health, smart lighting, among others. It can be easily configured and controlled from your mobile. SiriNEO Technologies ZigBOT Zigbee3 modules also have extra features such as leds and push button.
